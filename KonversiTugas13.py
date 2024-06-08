@@ -3,8 +3,6 @@ print("NIM    : 20230040086")
 print("Kelas  : TI23C\n")
 
 # 1. Konversi nilai ke Integer
-
-
 def konversi_integer(teks):
     try:
         nilai_integer = int(teks)
